@@ -107,9 +107,10 @@ footer ul {
     font-size: 15px;
     color: #999;
     list-style: none;
-    text-align: right;
+    text-align: left;
     padding-top:  10px;
-    padding-right: 10px;
+    padding-left: 10px;
+    display: inline;
 }
 
 .imglink {
