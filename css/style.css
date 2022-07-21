@@ -36,6 +36,11 @@ header {
     
 }
 
+footer {
+    background: #444;
+    padding-bottom: 10;
+}
+
 .logo {
     float: left;
     line-height: inherit;
@@ -95,4 +100,20 @@ nav a:hover::before {
 
 .navlink{
     font-size: min(4vw, 2em)
+}
+
+footer ul {
+    text-decoration: none;
+    font-size: 15px;
+    color: #999;
+    list-style: none;
+    text-align: right;
+    padding-top:  10px;
+    padding-right: 10px;
+}
+
+.imglink {
+    display: inline;
+    float: left;
+    
 }
